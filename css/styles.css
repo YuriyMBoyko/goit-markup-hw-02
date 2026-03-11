@@ -1,0 +1,57 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
+  color: #212121;
+  font-size: 14px;
+  background-color: #fff;
+  line-height: 1.5;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.page-header {
+  margin-bottom: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  background-color: #e0e0e0;
+}
+
+.page-nav .link {
+  text-decoration: none;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.page-title {
+  margin-bottom: 24px;
+  font-size: 32px;
+  text-align: center;
+  line-height: 1.333;
+  letter-spacing: 3px;
+}
