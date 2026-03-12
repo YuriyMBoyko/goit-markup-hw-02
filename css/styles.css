@@ -50,7 +50,6 @@ button {
   font-family: var(--second-family);
   font-weight: 700;
   font-size: 18px;
-/*  line-height: 21px; */ 
   line-height: 1.16667;
   letter-spacing: 0.03em;
   color: var(--navy-blue);
@@ -86,9 +85,7 @@ button {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-/*  line-height: 60px; */ 
   line-height: 1.07143;
-/*  letter-spacing: 0.02em;*/
   text-align: center;
   color: var(--white);
 }
@@ -96,7 +93,6 @@ button {
 .hero-button {
   font-weight: 500;
   font-size: 16px;
-/* line-height: 24px; */ 
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--white);
@@ -111,18 +107,13 @@ button {
 .features-item-title {
   font-weight: 500;
   font-size: 20px;
-/*  line-height: 24px; */ 
   line-height: 1.2;
-/*  letter-spacing: 0.02em;*/
   color: var(--navy-blue);
 }
 
 .features-item-text {
-  /*font-weight: 400;*/
   font-size: 16px;
-/*  line-height: 24px; */ 
   line-height: 1.5;
-/*  letter-spacing: 0.02em;*/
   color: var(--slate);
 }
 
@@ -133,9 +124,7 @@ button {
 .team-title {
   font-weight: 700;
   font-size: 36px;
-/*  line-height: 40px; */ 
   line-height: 1.11111;
-/*  letter-spacing: 0.02em;*/
   text-align: center;
   color: var(--navy-blue);
 }
@@ -147,19 +136,13 @@ button {
 .team-item-worker {
   font-weight: 500;
   font-size: 20px;
-/*  line-height: 24px; */ 
   line-height: 1.2;
-/*  letter-spacing: 0.02em;*/
   text-align: center;
   color: var(--navy-blue);
 }
 
 .team-item-job {
-/*  font-weight: 400;*/
-/*  font-size: 16px;*/
-/*  line-height: 24px; */ 
   line-height: 1.5;
-/*  letter-spacing: 0.02em;*/
   text-align: center;
   color: var(--slate);
 }
@@ -167,9 +150,7 @@ button {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-/*  line-height: 40px; */ 
   line-height: 1.11111;
-/*  letter-spacing: 0.02em;*/
   text-align: center;
   color: var(--navy-blue);
 }
@@ -177,18 +158,12 @@ button {
 .portfolio-item-title {
   font-weight: 500;
   font-size: 20px;
-/*  line-height: 24px; */ 
   line-height: 1.2;
-/*  letter-spacing: 0.02em;*/
   color: var(--navy-blue);
 }
 
 .portfolio-item-job {
-/*  font-weight: 400;*/
-/*  font-size: 16px;*/
-/*  line-height: 24px; */ 
   line-height: 1.5;
-/*  letter-spacing: 0.02em;*/
   color: var(--slate);
 }
 
@@ -199,7 +174,6 @@ button {
 .page-footer-logo-link {
   font-weight: 700;
   font-size: 18px;
-/*  line-height: 21px; */ 
   line-height: 1.16667;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -213,8 +187,6 @@ button {
 .page-footer-text {
   font-weight: 400;
   font-size: 16px;
-/*  line-height: 24px; */ 
   line-height: 1.5;
-/*  letter-spacing: 0.02em;*/
   color: var(--cloud);
 }
